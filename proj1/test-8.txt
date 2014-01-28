@@ -1,0 +1,22 @@
+M
+5
+3
+//This test case tests the result under the condition that there are two many elevators
+//level 2
+.....
+EEEEE
+EEEEE
+EEEEE
+.....
+//level 1
+.....
+EEEEH
+EEEEE
+SEEEE
+.....
+//level 0
+.....
+EEEEE
+EEEEE
+EEEEE
+.....

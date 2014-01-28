@@ -1,0 +1,32 @@
+M
+3
+7
+//This test case is used to test the route with many levels of elevators across
+//level 6
+.#E
+E#.
+.#H
+//level 5
+.#.
+E..
+...
+//level 4
+..E
+...
+...
+//level 3
+S#E
+E#.
+#..
+//level 2
+#.E
+E#.
+#..
+//level 1
+#.E
+E#.
+.#.
+//level 0
+#.E
+E#.
+...

@@ -1,0 +1,17 @@
+M
+4
+2
+//This test case is used to test the result under the condition that 
+//going over the level without elevator is impossible, also check the
+//result under the condition that H is on the way of elevator (Thus
+//inaccessible)
+//level 1
+....
+....
+....
+H...
+//level 0
+S...
+.##.
+#EEE
+E.##

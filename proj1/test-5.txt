@@ -1,0 +1,36 @@
+M
+4
+6
+//This test case is used to test the result under the condition that taking
+//elevators to travel between each level is faster even S and H are on the
+//same level
+//level 5
+...#
+.#..
+E#.#
+E#..
+//level 4
+..E.
+#...
+..#.
+..#.
+//level 3
+.#EH
+..#.
+..S#
+E##.
+//level 2
+.#E.
+..#.
+E##.
+....
+//level 1
+..E.
+##..
+E#..
+#...
+//level 0
+####
+....
+E.#.
+..##

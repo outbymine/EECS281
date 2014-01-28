@@ -1,0 +1,23 @@
+M
+5
+3
+//This text case is used to test the result when there is no possible route to
+//escape
+//level 2
+..E.#
+.###.
+.#E..
+..#..
+....#
+//level 1
+.....
+.....
+#.E..
+.###.
+H.#..
+//level 0
+..E..
+.##.#
+#E#.#
+..#.S
+...#.

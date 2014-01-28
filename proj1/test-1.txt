@@ -1,0 +1,14 @@
+M
+4
+2
+//This test case is used to test input errors: illegal map characters
+//level 0
+...E
+##.H
+#..#
+..#.
+//level 1
+...E
+S..#
+##..
+EEAE

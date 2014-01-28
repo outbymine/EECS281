@@ -1,0 +1,19 @@
+M
+6
+2
+//This test case is used to check the result when there are elevators to other level, but
+//there is no need to take the elevator
+//level 1
+H#.#..
+.H#S..
+.##E#.
+.E#.#.
+..###.
+...E..
+//level 0
+.#E.#.
+#...#.
+.E..#.
+.#....
+.#.E..
+...E..
