@@ -4,8 +4,12 @@ My work for the projects in the courses EECS281, EECS482, EECS484, EECS545 are s
 There is also a folder, which collects the solution I worked out for hundereds of Algorithm practice problems.
 
 Note:
+
 EECS 281 "Data Structure and Algorithm Analysis"
+
 EECS 482 "Operating System"
+
 EECS 484 "Database Management System"
+
 EECS 545 "Machine Learning"
 
