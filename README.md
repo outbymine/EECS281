@@ -1,1 +1,32 @@
-This folder is for the code of the projects in EECS281 "Data Structure and Algorithm Analysis" taken in University of Michigan
+The code of the projects in EECS281 "Data Structure and Algorithm Analysis" taken in University of Michigan
+===========================================================================================================
+
+project1
+
+        --Used BFS and DFS to find the possible way out in a maze with lays and escalators
+        
+        --Applied the object oriented design to find the best trade-off between memory and run-time
+        
+project2
+
+        --Used polymorphism, inheritance and pure virtual function to write the program to help a mine-breaker find way out
+        
+        --Implemented four kinds of heaps, including binary heap, Poorman heap, sorted heap and pairing heaps
+        
+project3
+
+        --Designed the program to facilitate the trading of the stock market and compute the statistics in each timestamps
+        
+        --Used various data structures such as priority-queue, hash-tables and balanced binary search tree
+        
+        --Optimized the code by using a max-heap and a min-heap to avoid traversing the data structure to get the median of the stock price
+        
+project4
+
+        --Designed the program using branch and bound algorithms to solve the travelling salesman problem
+        
+        --Created a dense graph Generated the Minimum Spanning tree using Prim's Algorithm and traverse it to get the initial upper bound
+        
+        --applied the 2-opt on the initial bound to get a better one
+        
+        --Designed the various lower bound and keep updating the braching criteria to optimize the code
