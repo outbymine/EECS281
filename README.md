@@ -13,6 +13,8 @@ project2
         
         --Implemented four kinds of heaps, including binary heap, Poorman heap, sorted heap and pairing heaps
         
+        --optimized the memory by storing pointers rather than object for large data structures
+        
 project3
 
         --Designed the program to facilitate the trading of the stock market and compute the statistics in each timestamps
