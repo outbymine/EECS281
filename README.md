@@ -29,6 +29,6 @@ project4
         
         --Created a dense graph and generated the Minimum Spanning tree using Prim's Algorithm and traverse it to get the initial upper bound
         
-        --applied the 2-opt on the initial bound to get a better one
+        --Applied the 2-opt on the initial bound to get a better one
         
         --Designed the various lower bound and keep updating the braching criteria to optimize the code
