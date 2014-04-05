@@ -27,7 +27,7 @@ project4
 
         --Designed the program using branch and bound algorithms to solve the travelling salesman problem
         
-        --Created a dense graph Generated the Minimum Spanning tree using Prim's Algorithm and traverse it to get the initial upper bound
+        --Created a dense graph and generated the Minimum Spanning tree using Prim's Algorithm and traverse it to get the initial upper bound
         
         --applied the 2-opt on the initial bound to get a better one
         
