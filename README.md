@@ -1,4 +1,5 @@
-The code of the projects in EECS281 "Data Structure and Algorithm Analysis" taken in University of Michigan
+Please delete this fork! Otherwise it may cause Honor Code!
+请删除这个fork，因为这是um 281的课程资料与代码，其泄露可能会导致学术不端和作弊！谢谢配合！
 ===========================================================================================================
 
 project1
